@@ -18,14 +18,14 @@
   },
   "links": [
     {
-      "title": "http://calculator.uzens.cc.cd/",
-      "url": "",
+      "title": "官方网站",
+      "url": "http://calculator.uzens.cc.cd/",
       "icon": ""
     },
     {
-      "title": "https://www.bandbbs.cn/resources/7227/",
-      "url": "",
-      "icon": "https://ts3.tc.mm.bing.net/th/id/ODF._jI2d0zZfzFgqkvhIulSVw?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+      "title": "米坛链接",
+      "url": "https://www.bandbbs.cn/resources/7227/",
+      "icon": ""
     }
   ],
   "downloads": {
@@ -50,24 +50,5 @@
       "file_name": "downloads/6a65925ae947ef210d275d27_MatrixCalculator.rpk"
     }
   },
-  "ext": {
-    "trialDownloads": {
-      "xmrw5": {
-        "version": "v4.0.0beta",
-        "file_name": "downloads/trial/6a65925ae947ef210d275d27_MatrixCalculator.rpk"
-      },
-      "xmrw5xring": {
-        "version": "v4.0.0beta",
-        "file_name": "downloads/trial/6a65925ae947ef210d275d27_MatrixCalculator.rpk"
-      },
-      "xmrw6": {
-        "version": "v4.0.0beta",
-        "file_name": "downloads/trial/6a65925ae947ef210d275d27_MatrixCalculator.rpk"
-      },
-      "xmb10p": {
-        "version": "v3.1.0",
-        "file_name": "downloads/trial/6a65925ae947ef210d275d27_release (20).rpk"
-      }
-    }
-  }
+  "ext": {}
 }
