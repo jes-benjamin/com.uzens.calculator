@@ -3,7 +3,7 @@
     "id": "com.uzens.calculator",
     "restype": "quick_app",
     "name": "矩阵计算器",
-    "description": "v5版本震撼发布\n这是一个为多设备设计的全能计算器软件，功能强大，内存占用小\n除了基本的计算之外，还支持函数图像，单位换算，BMI计算，货币换算，家族称谓计算，并且支持历史记录。\n注意：部分设备功能与UI可能还有不全无法使用的问题，部分设备可能出现应用图标过大问题。如发现bug请在米坛原帖下回复所出现的问题与设备，我们会进行逐一排查\n已经为红米手表与手环Pro系列单独适配了UI并修复了已知的bug",
+    "description": "向小米手环9Pro/10Pro、REDMI Watch 5/6、小米Watch S系列(圆屏)推出全新的5.2.1版本！\n并入了原先测试的十月及十一月累计增量更新所推出的功能！\n手环Pro与红米手表版本全面重做，修复大量显示错误。\n-修复了部分函数等功能按钮输入后会清空已输入内容的错误\n-修复了解不等式的部分功能\n-修复了以往所出现的大量bug\n-修复了关于界面无法打开的问题\n-修复了的部分设备图标错位问题\n-修复了函数单调性错误问题\n-修复了函数图像部分问题\n-修复了界面稳定性问题\n-新增科学计算器、函数图像等页面的绝对值输入按键\n-新增了置顶功能，长按可置顶功能\n-新增了三角几何功能，支持输入三个边长后自动计算出各个角度与对应三角函数值\n-新增了函数图像平滑曲线开关，默认开启，开启后图像生成更加平滑，但生成时间可能较长\n-新增了历史记录结果二维码分享，历史记录数量增加为30个\n-小米手表S系列支持后台运行\n小米手环9/10/11的新版本适配计划预计于11月下半到12月进行。",
     "preview": [
       "media/23121.png",
       "media/23101.png",
@@ -25,47 +25,57 @@
   "links": [
     {
       "title": "官方网站",
-      "url": "http://calculator.uzens.cc.cd/",
-      "icon": ""
+      "url": "https://calculator.uzens.cc.cd/",
+      "icon": "<i class=\"ph ph-browsers\"></i>"
     },
     {
       "title": "米坛链接",
       "url": "https://www.bandbbs.cn/resources/7227/",
       "icon": ""
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/jes-benjamin/UZENS-Calculator",
+      "icon": "<i class=\"ph ph-github-logo\"></i>"
+    },
+    {
+      "title": "官方交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=KrApd9Op8QKXsyzfj5adlMCLvMKensAg4zFnp5qmDi%2BIcjedDjeFiTWwte4P1sD3&busi_data=eyJncm91cENvZGUiOiIxMTI4NDUyMzMyIiwidG9rZW4iOiJ0WjY3eFFJRVVwOElETlNhaFpwWGRZdy9NNzdGZW9ZWGtBMHlJRWJJZUEwZHNTT0NXVFhQakY1TDRrUkJWMFlnIiwidWluIjoiMjQ2OTQxNzYyNCJ9&data=A7r17JcA8tdAyGigyKUoPeD327sjCFRQipIB89B-RwqJN8nWV7j5gpq_PrqKkL8LwbPxETrW7ALqvKMWH2PBKw&svctype=4&tempid=h5_group_info",
+      "icon": ""
     }
   ],
   "downloads": {
     "xmws4": {
-      "version": "v5.0.0",
-      "file_name": "downloads/矩阵计算器s系列V5.0.0.rpk"
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     },
     "xmws4xring": {
-      "version": "v5.0.0",
-      "file_name": "downloads/矩阵计算器s系列V5.0.0.rpk"
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     },
     "xmws3": {
-      "version": "v5.0.0",
-      "file_name": "downloads/矩阵计算器s系列V5.0.0.rpk"
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     },
     "xmws441": {
-      "version": "v5.0.0",
-      "file_name": "downloads/矩阵计算器s系列V5.0.0.rpk"
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     },
     "xmws5": {
-      "version": "v5.0.0",
-      "file_name": "downloads/矩阵计算器s系列V5.0.0.rpk"
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     },
     "xmrw5": {
       "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器V5.0.0红米手表.rpk"
+      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
     },
     "xmrw5xring": {
       "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器V5.0.0红米手表.rpk"
+      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
     },
     "xmrw6": {
       "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器V5.0.0红米手表.rpk"
+      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
     },
     "xmb10nfc": {
       "version": "v5.0.0beta",
@@ -77,15 +87,19 @@
     },
     "xmb10p": {
       "version": "v5.0.0beta",
-      "file_name": "downloads/手环Pro系列计算器.rpk"
+      "file_name": "downloads/ucalc_band9pro_10pro_v5.2.1.rpk"
     },
     "xmb9p": {
       "version": "v5.0.0beta",
-      "file_name": "downloads/手环Pro系列计算器.rpk"
+      "file_name": "downloads/ucalc_band9pro_10pro_v5.2.1.rpk"
     },
     "xmb9": {
       "version": "v5.0.0beta",
       "file_name": "downloads/矩阵计算器_手环9_胶囊屏_v5.0.0.rpk"
+    },
+    "xmws541": {
+      "version": "v5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
     }
   },
   "ext": {}
