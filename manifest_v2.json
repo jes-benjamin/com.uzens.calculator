@@ -3,7 +3,7 @@
     "id": "com.uzens.calculator",
     "restype": "quick_app",
     "name": "矩阵计算器",
-    "description": "向小米手环9Pro/10Pro、REDMI Watch 5/6、小米Watch S系列(圆屏)推出全新的5.2.1版本！\n并入了原先测试的十月及十一月累计增量更新所推出的功能！\n手环Pro与红米手表版本全面重做，修复大量显示错误。\n-修复了部分函数等功能按钮输入后会清空已输入内容的错误\n-修复了解不等式的部分功能\n-修复了以往所出现的大量bug\n-修复了关于界面无法打开的问题\n-修复了的部分设备图标错位问题\n-修复了函数单调性错误问题\n-修复了函数图像部分问题\n-修复了界面稳定性问题\n-新增科学计算器、函数图像等页面的绝对值输入按键\n-新增了置顶功能，长按可置顶功能\n-新增了三角几何功能，支持输入三个边长后自动计算出各个角度与对应三角函数值\n-新增了函数图像平滑曲线开关，默认开启，开启后图像生成更加平滑，但生成时间可能较长\n-新增了历史记录结果二维码分享，历史记录数量增加为30个\n-小米手表S系列支持后台运行\n小米手环9/10/11的新版本适配计划预计于11月下半到12月进行。",
+    "description": "矩阵计算器v5现已发布\n矩阵计算器是一款多设备适配的全能计算器\n19个超多的丰富的软件功能\n多设备独立适配\n\n推送全新矩阵计算器版本号5.2.1的十一月累计增量更新（正式版）。\n-修复了以往所出现的大量bug\n-修复了关于界面无法打开的问题\n-修复了的部分设备图标错位问题\n-修复了函数单调性错误问题\n-修复了函数图像部分问题\n-修复了界面稳定性问题\n-新增了置顶功能，长按可置顶功能\n-新增了三角几何功能，支持输入三个边长后自动计算出各个角度与对应三角函数值\n-新增了函数图像平滑曲线开关，默认开启，开启后图像生成更加平滑，但生成时间可能较长\n-新增了历史记录结果二维码分享，历史记录数量增加为30个",
     "preview": [
       "media/23121.png",
       "media/23101.png",
@@ -13,7 +13,7 @@
       "media/23000.png",
       "media/22978.png"
     ],
-    "icon": "media/22216.png",
+    "icon": "media/29793.png",
     "cover": "media/23121.png",
     "author": [
       {
@@ -26,80 +26,104 @@
     {
       "title": "官方网站",
       "url": "https://calculator.uzens.cc.cd/",
-      "icon": "<i class=\"ph ph-browsers\"></i>"
+      "icon": "globe"
     },
     {
       "title": "米坛链接",
       "url": "https://www.bandbbs.cn/resources/7227/",
-      "icon": ""
+      "icon": "globe"
     },
     {
       "title": "Github",
-      "url": "https://github.com/jes-benjamin/UZENS-Calculator",
-      "icon": "<i class=\"ph ph-github-logo\"></i>"
+      "url": "https://github.com/jes-benjamin/UZENS-Calculator/",
+      "icon": "github-logo"
     },
     {
-      "title": "官方交流群",
+      "title": "官方Q群",
       "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=KrApd9Op8QKXsyzfj5adlMCLvMKensAg4zFnp5qmDi%2BIcjedDjeFiTWwte4P1sD3&busi_data=eyJncm91cENvZGUiOiIxMTI4NDUyMzMyIiwidG9rZW4iOiJ0WjY3eFFJRVVwOElETlNhaFpwWGRZdy9NNzdGZW9ZWGtBMHlJRWJJZUEwZHNTT0NXVFhQakY1TDRrUkJWMFlnIiwidWluIjoiMjQ2OTQxNzYyNCJ9&data=A7r17JcA8tdAyGigyKUoPeD327sjCFRQipIB89B-RwqJN8nWV7j5gpq_PrqKkL8LwbPxETrW7ALqvKMWH2PBKw&svctype=4&tempid=h5_group_info",
-      "icon": ""
+      "icon": "chat-circle"
     }
   ],
   "downloads": {
     "xmws4": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmws4xring": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmws3": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmws441": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmws5": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmrw5": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/REDMIWATCH版v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmrw5xring": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/REDMIWATCH版v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmrw6": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/uzens_calc_redmiwatch5_6_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/REDMIWATCH版v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmb10nfc": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器_手环10_胶囊屏_v5.0.0.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/矩阵计算器_手环版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmb10": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器_手环10_胶囊屏_v5.0.0.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/REDMIWATCH版v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmb10p": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/ucalc_band9pro_10pro_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/矩阵计算器_手环版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmb9p": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/ucalc_band9pro_10pro_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/REDMIWATCH版v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmb9": {
-      "version": "v5.0.0beta",
-      "file_name": "downloads/矩阵计算器_手环9_胶囊屏_v5.0.0.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/矩阵计算器_手环版_v5.2.1.rpk",
+      "versionCode": 521
+    },
+    "xmb11": {
+      "version": "5.2.1",
+      "file_name": "downloads/矩阵计算器_手环版_v5.2.1.rpk",
+      "versionCode": 521
     },
     "xmws541": {
-      "version": "v5.2.1",
-      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk"
+      "version": "5.2.1",
+      "file_name": "downloads/6a65925ae947ef210d275d27_矩阵计算器_圆屏版_v5.2.1.rpk",
+      "versionCode": 521
+    },
+    "xmb11nfc": {
+      "version": "5.2.1",
+      "file_name": "downloads/矩阵计算器_手环版_v5.2.1.rpk",
+      "versionCode": 521
     }
   },
   "ext": {}
